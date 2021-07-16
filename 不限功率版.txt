@@ -1,0 +1,3 @@
+https://github.com/higarfield2/Actions-lede-17.01.4/releases
+
+自动同步编译的不限功率版（换其他国家/地区可以调节大功率）。强烈不建议使用此版本！使用此版本调节大功率导致硬件损坏的后果由用户自己承担
